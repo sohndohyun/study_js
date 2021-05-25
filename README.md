@@ -1,3 +1,3 @@
-# practice_js
+# study_js
 
 simple js, html files to learn how to use javascript.
